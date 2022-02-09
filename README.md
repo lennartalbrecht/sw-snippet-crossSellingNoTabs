@@ -1,5 +1,5 @@
 # Shopware 6 Cross Selling without tabs
-n Shopware 6 standard theme you only have tabs for cross selling but I often want them listet below each other. Here you go.
+In Shopware 6 standard theme you only have tabs for cross selling but I often want them listed below each other. If you want too, here you go.
 
 ## Usage
 
