@@ -1,15 +1,27 @@
+# Shopware 6 Cross Selling without tabs
+n Shopware 6 standard theme you only have tabs for cross selling but I often want them listet below each other. Here you go.
+
 ## Usage
 
-### 1. 	Datei für das Menü selber 
-	\views\storefront\page\product-detail\cross-selling\tabs.html.twig
-	entsprechend im Theme ablegen
+### Step 1: Twig file 
+include following file in your theme:
+\views\storefront\page\product-detail\cross-selling\tabs.html.twig
+	
 
-### 2.	Beispiel fix CSS, damit es ordentlich aussieht:
-	beispiel.scss
+### Step 2: Example scss:
+Paste code from example.scss
 
-### 3.	Textbaustein anlegen für "detail.customCrossSellingHeadline" 
-	z.B.:  AUCH INTERESSANT FÜR SIE
+### Step 3:	Create text snippet "detail.customCrossSellingHeadline" 
+e.g. "Also interesting"
 
+### Step 4:	Compile theme/empty cache
+Depending on your environment
 
+### Step 4:	Compile theme/empty cache
+Depending on your environment
 
+### Step 5:	Create cross selling(s) ..
 
+### Step 6: Sell stuff
+
+### Step 7: Become a millionaire
