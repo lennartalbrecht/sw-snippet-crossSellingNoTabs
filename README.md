@@ -17,11 +17,8 @@ e.g. "Also interesting"
 ### Step 4:	Compile theme/empty cache
 Depending on your environment
 
-### Step 4:	Compile theme/empty cache
-Depending on your environment
-
 ### Step 5:	Create cross selling(s) ..
 
 ### Step 6: Sell stuff
 
-### Step 7: Become a millionaire
+### Step 17: Become a millionaire
